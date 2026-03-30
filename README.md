@@ -1,6 +1,6 @@
 # Open Source Audit Project
 
-Name: Ayush  
+Name: Ayushman Singh
 Registration Number: 24BCY10090  
 Chosen Software: Python  
 
